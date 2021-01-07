@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: stephanBerger
-          template: terminal
+          template: classic
           base: activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
