@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/stephanBerger?template=terminal&base.header=0&languages=1&stars=1&pagespeed=1&isocalendar=1&languages.ignored=html%2Ccss&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FParis)
+![Metrics](https://metrics.lecoq.io/stephanBerger?template=classic&base.header=0&languages=1&stars=1&pagespeed=1&isocalendar=1&languages.ignored=html%2Ccss&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FParis)
